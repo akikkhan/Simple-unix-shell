@@ -7,4 +7,4 @@ We implemented a simple *shell* program by using **fork()/execv()** system calls
   * **“history”**, which *displays* the *latest 100 commands* typed by the user
   * **“histat”**, which *displays* the *top 10* most frequently typed commands in the descending order
 
-Programming language used in this project was **C**.
+Programming language used in this project was **C++**.
